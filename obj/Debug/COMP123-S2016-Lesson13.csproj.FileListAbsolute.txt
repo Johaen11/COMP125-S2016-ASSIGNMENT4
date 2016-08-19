@@ -1,0 +1,10 @@
+C:\Users\Tom\Documents\COMP123\COMP123-S2016-Lesson13\COMP123-S2016-Lesson13\bin\Debug\COMP123-S2016-Lesson13.exe.config
+C:\Users\Tom\Documents\COMP123\COMP123-S2016-Lesson13\COMP123-S2016-Lesson13\bin\Debug\COMP123-S2016-Lesson13.exe
+C:\Users\Tom\Documents\COMP123\COMP123-S2016-Lesson13\COMP123-S2016-Lesson13\bin\Debug\COMP123-S2016-Lesson13.pdb
+C:\Users\Tom\Documents\COMP123\COMP123-S2016-Lesson13\COMP123-S2016-Lesson13\obj\Debug\COMP123-S2016-Lesson13.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Documents\COMP123\COMP123-S2016-Lesson13\COMP123-S2016-Lesson13\obj\Debug\COMP123_S2016_Lesson13.Properties.Resources.resources
+C:\Users\Tom\Documents\COMP123\COMP123-S2016-Lesson13\COMP123-S2016-Lesson13\obj\Debug\COMP123-S2016-Lesson13.csproj.GenerateResource.Cache
+C:\Users\Tom\Documents\COMP123\COMP123-S2016-Lesson13\COMP123-S2016-Lesson13\obj\Debug\COMP123-S2016-Lesson13.exe
+C:\Users\Tom\Documents\COMP123\COMP123-S2016-Lesson13\COMP123-S2016-Lesson13\obj\Debug\COMP123-S2016-Lesson13.pdb
+C:\Users\Tom\Documents\COMP123\COMP123-S2016-Lesson13\COMP123-S2016-Lesson13\obj\Debug\COMP123_S2016_Lesson13.AbilityGeneratorForm.resources
+C:\Users\Tom\Documents\COMP123\COMP123-S2016-Lesson13\COMP123-S2016-Lesson13\obj\Debug\COMP123_S2016_Lesson13.RaceAndClassForm.resources

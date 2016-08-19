@@ -1,0 +1,15 @@
+/* custom css goes here */
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700);
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    padding-bottom: 70px;
+}
+
+
+#canvas{
+    /*border: 1px black solid;*/
+    border-radius: 5px;
+    background-color: black;
+}
